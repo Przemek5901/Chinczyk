@@ -1,0 +1,310 @@
+﻿  Chinczyk.cpp
+  cScreen.cpp
+  Dice.cpp
+  Game.cpp
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\Game.cpp(460,125): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\Game.cpp(460,104): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\Game.cpp(468,130): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\Game.cpp(468,109): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\Game.cpp(476,130): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\Game.cpp(476,109): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\Game.cpp(483,130): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\Game.cpp(483,109): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  MenuExit.cpp
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuExit.cpp(138,35): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuExit.cpp(229,92): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuExit.cpp(229,71): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuExit.cpp(235,98): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuExit.cpp(235,77): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuExit.cpp(239,98): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuExit.cpp(239,77): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuExit.cpp(243,102): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuExit.cpp(243,81): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuExit.cpp(252,102): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuExit.cpp(252,81): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  MenuGame.cpp
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGame.cpp(157,14): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGame.cpp(225,95): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGame.cpp(225,74): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  MenuGameSel.cpp
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(143,92): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(143,71): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(149,92): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(149,71): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(156,92): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(156,71): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(163,92): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(163,71): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(194,97): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(194,76): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(211,98): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(211,77): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(227,99): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(227,78): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(243,100): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(243,79): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(261,98): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuGameSel.cpp(261,77): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  MenuScore.cpp
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(125,35): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(139,36): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(146,39): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(214,92): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(214,71): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(220,98): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(220,77): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(224,98): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(224,77): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(228,104): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(228,83): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(234,103): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(234,82): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  MenuStart.cpp
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuStart.cpp(70,99): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuStart.cpp(70,78): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuStart.cpp(74,100): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuStart.cpp(74,79): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuStart.cpp(78,99): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuStart.cpp(78,78): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Players.cpp
+  Textbox.cpp
+  Generowanie kodu...
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuScore.cpp(324): warning C4715: "MenuScore::Run”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\Chinczyk\MenuExit.cpp(169): warning C4715: "MenuExit::winnerNickname”: niewszystkie ścieżki kodu zwracają wartość
+LINK : warning LNK4075: zignorowano opcję „/INCREMENTAL” z powodu określenia opcji „/FORCE”
+Game.obj : warning LNK4006: element "class Players P" (?P@@3VPlayers@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+Game.obj : warning LNK4006: element "class Game G" (?G@@3VGame@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuExit.obj : warning LNK4006: element "class Players P" (?P@@3VPlayers@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuExit.obj : warning LNK4006: element "class Game G" (?G@@3VGame@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuExit.obj : warning LNK4006: element "class std::basic_regex<char,class std::regex_traits<char> > rgx" (?rgx@@3V?$basic_regex@DV?$regex_traits@D@std@@@std@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuExit.obj : warning LNK4006: element "class MenuGame MG" (?MG@@3VMenuGame@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuGame.obj : warning LNK4006: element "class Players P" (?P@@3VPlayers@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuGame.obj : warning LNK4006: element "class Game G" (?G@@3VGame@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuGame.obj : warning LNK4006: element "class std::basic_regex<char,class std::regex_traits<char> > rgx" (?rgx@@3V?$basic_regex@DV?$regex_traits@D@std@@@std@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuGame.obj : warning LNK4006: element "class MenuGame MG" (?MG@@3VMenuGame@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuGameSel.obj : warning LNK4006: element "class Players P" (?P@@3VPlayers@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuGameSel.obj : warning LNK4006: element "class Game G" (?G@@3VGame@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuGameSel.obj : warning LNK4006: element "class std::basic_regex<char,class std::regex_traits<char> > rgx" (?rgx@@3V?$basic_regex@DV?$regex_traits@D@std@@@std@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuScore.obj : warning LNK4006: element "class Players P" (?P@@3VPlayers@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuScore.obj : warning LNK4006: element "class Game G" (?G@@3VGame@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuScore.obj : warning LNK4006: element "class std::basic_regex<char,class std::regex_traits<char> > rgx" (?rgx@@3V?$basic_regex@DV?$regex_traits@D@std@@@std@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+MenuScore.obj : warning LNK4006: element "class MenuGame MG" (?MG@@3VMenuGame@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+Players.obj : warning LNK4006: element "class Players P" (?P@@3VPlayers@@A) jest już zdefiniowany w elemencie Chinczyk.obj; druga definicja została zignorowana
+C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\x64\Debug\Chinczyk.exe : warning LNK4088: obraz jest generowany ze względu na użycie opcji /FORCE; uruchomienie obrazu może nie być możliwe
+  Chinczyk.vcxproj -> C:\Users\Laptop\Desktop\syf z sem4\f7ea935c-gr41-repo\Projekt\Chinczyk\Chinczyk\x64\Debug\Chinczyk.exe
